@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MM+KsK4TLFdNERpSCNWFXlMA5afDYqA3s2KrThEFLls=",
+  "Source": "WebAPITesting.BLL",
+  "BasePath": "_content/WebAPITesting.BLL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

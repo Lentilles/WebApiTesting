@@ -1,0 +1,17 @@
+D:\Projects\.NET\WebAPITesting.BLL\WebAPITesting.DAL\bin\Debug\net7.0\WebAPITesting.DAL.deps.json
+D:\Projects\.NET\WebAPITesting.BLL\WebAPITesting.DAL\bin\Debug\net7.0\WebAPITesting.DAL.runtimeconfig.json
+D:\Projects\.NET\WebAPITesting.BLL\WebAPITesting.DAL\bin\Debug\net7.0\WebAPITesting.DAL.dll
+D:\Projects\.NET\WebAPITesting.BLL\WebAPITesting.DAL\bin\Debug\net7.0\WebAPITesting.DAL.pdb
+D:\Projects\.NET\WebAPITesting.BLL\WebAPITesting.DAL\bin\Debug\net7.0\WebApiTesting.Shared.dll
+D:\Projects\.NET\WebAPITesting.BLL\WebAPITesting.DAL\bin\Debug\net7.0\WebApiTesting.Shared.pdb
+D:\Projects\.NET\WebAPITesting.BLL\WebAPITesting.DAL\obj\Debug\net7.0\WebAPITesting.DAL.csproj.AssemblyReference.cache
+D:\Projects\.NET\WebAPITesting.BLL\WebAPITesting.DAL\obj\Debug\net7.0\WebAPITesting.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.NET\WebAPITesting.BLL\WebAPITesting.DAL\obj\Debug\net7.0\WebAPITesting.DAL.AssemblyInfoInputs.cache
+D:\Projects\.NET\WebAPITesting.BLL\WebAPITesting.DAL\obj\Debug\net7.0\WebAPITesting.DAL.AssemblyInfo.cs
+D:\Projects\.NET\WebAPITesting.BLL\WebAPITesting.DAL\obj\Debug\net7.0\WebAPITesting.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\.NET\WebAPITesting.BLL\WebAPITesting.DAL\obj\Debug\net7.0\WebAPITesting.DAL.csproj.CopyComplete
+D:\Projects\.NET\WebAPITesting.BLL\WebAPITesting.DAL\obj\Debug\net7.0\WebAPITesting.DAL.dll
+D:\Projects\.NET\WebAPITesting.BLL\WebAPITesting.DAL\obj\Debug\net7.0\refint\WebAPITesting.DAL.dll
+D:\Projects\.NET\WebAPITesting.BLL\WebAPITesting.DAL\obj\Debug\net7.0\WebAPITesting.DAL.pdb
+D:\Projects\.NET\WebAPITesting.BLL\WebAPITesting.DAL\obj\Debug\net7.0\WebAPITesting.DAL.genruntimeconfig.cache
+D:\Projects\.NET\WebAPITesting.BLL\WebAPITesting.DAL\obj\Debug\net7.0\ref\WebAPITesting.DAL.dll

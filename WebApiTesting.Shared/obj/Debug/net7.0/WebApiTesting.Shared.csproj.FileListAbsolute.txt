@@ -1,0 +1,12 @@
+D:\Projects\.NET\WebAPITesting.BLL\WebApiTesting.Shared\bin\Debug\net7.0\WebApiTesting.Shared.deps.json
+D:\Projects\.NET\WebAPITesting.BLL\WebApiTesting.Shared\bin\Debug\net7.0\WebApiTesting.Shared.dll
+D:\Projects\.NET\WebAPITesting.BLL\WebApiTesting.Shared\bin\Debug\net7.0\WebApiTesting.Shared.pdb
+D:\Projects\.NET\WebAPITesting.BLL\WebApiTesting.Shared\obj\Debug\net7.0\WebApiTesting.Shared.csproj.AssemblyReference.cache
+D:\Projects\.NET\WebAPITesting.BLL\WebApiTesting.Shared\obj\Debug\net7.0\WebApiTesting.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.NET\WebAPITesting.BLL\WebApiTesting.Shared\obj\Debug\net7.0\WebApiTesting.Shared.AssemblyInfoInputs.cache
+D:\Projects\.NET\WebAPITesting.BLL\WebApiTesting.Shared\obj\Debug\net7.0\WebApiTesting.Shared.AssemblyInfo.cs
+D:\Projects\.NET\WebAPITesting.BLL\WebApiTesting.Shared\obj\Debug\net7.0\WebApiTesting.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\.NET\WebAPITesting.BLL\WebApiTesting.Shared\obj\Debug\net7.0\WebApiTesting.Shared.dll
+D:\Projects\.NET\WebAPITesting.BLL\WebApiTesting.Shared\obj\Debug\net7.0\refint\WebApiTesting.Shared.dll
+D:\Projects\.NET\WebAPITesting.BLL\WebApiTesting.Shared\obj\Debug\net7.0\WebApiTesting.Shared.pdb
+D:\Projects\.NET\WebAPITesting.BLL\WebApiTesting.Shared\obj\Debug\net7.0\ref\WebApiTesting.Shared.dll
